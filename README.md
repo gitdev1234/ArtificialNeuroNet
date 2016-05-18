@@ -1,5 +1,5 @@
-# OpenWeatherMapReader
-The OpenWeatherMapReader is a program to read weather-forecast-data from openweathermap.com and output this data.
+# ArtificialNeuroNet
+C++ implementation of a simple back-propagation neuronal net
 
 ##!Attention!
 Please note that this project is developed as a C++ - beginner - project.
